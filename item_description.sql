@@ -193,3 +193,5 @@ UPDATE iowa_drink_sales SET item_description = REPLACE(item_description,'-','');
 UPDATE iowa_drink_sales SET item_description = REPLACE(item_description,'    ',' ');
 UPDATE iowa_drink_sales SET item_description = REPLACE(item_description,'   ',' ');
 UPDATE iowa_drink_sales SET item_description = REPLACE(item_description,'  ',' ');
+
+-- source quote: https://sqlserverguides.com/postgresql-escape-single-quote/
