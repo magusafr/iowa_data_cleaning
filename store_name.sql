@@ -3,7 +3,7 @@
 UPDATE iowa_drink_sales SET store_name = LOWER(store_name);
 
 -- inconsistent store name
-UPDATE iowa_drink_sales SET store_name = '218 fuel express' WHERE store_name = '218 fuel express & chubby's liquor';
+UPDATE iowa_drink_sales SET store_name = '218 fuel express' WHERE store_name = '218 fuel express & chubby''s liquor';
 UPDATE iowa_drink_sales SET store_name = 'ameristar casino council bluffs gift' WHERE store_name = 'ameristar casino / council bluffs';
 UPDATE iowa_drink_sales SET store_name = 'blind pig cocktail bodega west des moines' WHERE store_name = 'blind pig cocktail bodega / west des moines';
 UPDATE iowa_drink_sales SET store_name = 'casey's general store #1762 / algona' WHERE store_name = 'casey's general store - #1762 / algona';
@@ -17,7 +17,7 @@ UPDATE iowa_drink_sales SET store_name = 'hometown foods / gladbrook' WHERE stor
 UPDATE iowa_drink_sales SET store_name = 'hometown foods / hubbard' WHERE store_name = 'hometown foods - hubbard';
 UPDATE iowa_drink_sales SET store_name = 'hometown foods / hubbard' WHERE store_name = 'hometown foods- hubbard';
 UPDATE iowa_drink_sales SET store_name = 'hometown foods / state center' WHERE store_name = 'hometown foods-state center';
-UPDATE iowa_drink_sales SET store_name = 'huber's store inc.' WHERE store_name = 'hubers store';
+UPDATE iowa_drink_sales SET store_name = 'huber''s store inc.' WHERE store_name = 'hubers store';
 UPDATE iowa_drink_sales SET store_name = 'hy-vee c-store / fairfield' WHERE store_name = 'hy-vee c-store / fairfeild';
 UPDATE iowa_drink_sales SET store_name = 'hy-vee fast & fresh express / creston' WHERE store_name = 'hy-vee fast & fresh express- creston';
 UPDATE iowa_drink_sales SET store_name = 'hy-vee wine and spirits / le mars' WHERE store_name = 'hy-vee wine and spirits / lemars';
