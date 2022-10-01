@@ -6,7 +6,7 @@ UPDATE iowa_drink_sales SET item_description = 'absolut swedish vodka 80prf' WHE
 UPDATE iowa_drink_sales SET item_description = 'absolut swedish vodka 80prf mini' WHERE item_description = 'absolut swedish vodka 80 prf mini';
 UPDATE iowa_drink_sales SET item_description = 'ancnoc blas' WHERE item_description = 'ancnoc blas scotch';
 UPDATE iowa_drink_sales SET item_description = 'appleton 8yr reserve' WHERE item_description = 'appleton 8 year old reserve';
-UPDATE iowa_drink_sales SET item_description = 'appleton estate 21yr' WHERE item_description = 'appleton estate 21 yr jamaica rum'';
+UPDATE iowa_drink_sales SET item_description = 'appleton estate 21yr' WHERE item_description = 'appleton estate 21 yr jamaica rum';
 UPDATE iowa_drink_sales SET item_description = 'appleton rare blend 12yr' WHERE item_description = 'appleton rare blend';
 UPDATE iowa_drink_sales SET item_description = 'appleton rare blend 12yr' WHERE item_description = 'appleton rare blend 12yr - use code 943803';
 UPDATE iowa_drink_sales SET item_description = 'ardbeg an oa smoker vap' WHERE item_description = 'ardbeg an oa 6 750ml smoker vap';
