@@ -1,5 +1,5 @@
 -- lower case
-UPDATE iowa_drink_sales SET category_name = LOWER(category_number);
+UPDATE iowa_drink_sales SET category_name = LOWER(category_name);
 
 -- Inconsistent category name
 UPDATE iowa_drink_sales SET category_name = 'american cordials & liqueurs' WHERE category_name = 'american cordials & liqueur';
