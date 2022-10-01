@@ -6,7 +6,7 @@ UPDATE iowa_drink_sales SET store_name = LOWER(store_name);
 UPDATE iowa_drink_sales SET store_name = '218 fuel express' WHERE store_name = '218 fuel express & chubby''s liquor';
 UPDATE iowa_drink_sales SET store_name = 'ameristar casino council bluffs gift' WHERE store_name = 'ameristar casino / council bluffs';
 UPDATE iowa_drink_sales SET store_name = 'blind pig cocktail bodega west des moines' WHERE store_name = 'blind pig cocktail bodega / west des moines';
-UPDATE iowa_drink_sales SET store_name = 'casey's general store #1762 / algona' WHERE store_name = 'casey's general store - #1762 / algona';
+UPDATE iowa_drink_sales SET store_name = 'casey's general store #1762 / algona'' WHERE store_name = 'casey''s general store - #1762 / algona';
 UPDATE iowa_drink_sales SET store_name = 'cats eye distillery llc' WHERE store_name = 'cats eye distillery, llc';
 UPDATE iowa_drink_sales SET store_name = 'double d liquor store' WHERE store_name = '"double ""d"" liquor store"';
 UPDATE iowa_drink_sales SET store_name = 'fareway stores #166/ anamosa' WHERE store_name = 'fareway stores # 166/ anamosa';
