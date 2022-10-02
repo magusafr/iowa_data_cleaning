@@ -148,50 +148,48 @@ UPDATE iowa_drink_sales SET item_description = 'jim beam black w/2 glasses' WHER
 UPDATE iowa_drink_sales SET item_description = 'jim beam distillers masterpiece' WHERE item_description = 'jim beam distillers masterpeice';
 UPDATE iowa_drink_sales SET item_description = 'jose cuervo reserva de la familia' WHERE item_description = 'jose cuervo reserva de la familia use code 989210';
 
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
+UPDATE iowa_drink_sales SET item_description = 'jose cuervo tradicional reposado tequila' WHERE item_description = 'jose cuervo tradicional reposado';
+UPDATE iowa_drink_sales SET item_description = 'j w dant bond 100prf bourbon' WHERE item_description = 'j. w. dant 100 prf bond bourbon';
+UPDATE iowa_drink_sales SET item_description = 'knob creek 12yr' WHERE item_description = 'knob creek 12 year';
+UPDATE iowa_drink_sales SET item_description = 'ledaig 10yr' WHERE item_description = 'ledaig 10 year';
+UPDATE iowa_drink_sales SET item_description = 'legacy canadian whisky' WHERE item_description = 'legacy canadian why.';
+UPDATE iowa_drink_sales SET item_description = 'leroux jeznowka polish blackberry brandy' WHERE item_description = 'leroux jeznowka polish blackerry brandy';
+UPDATE iowa_drink_sales SET item_description = 'lord calvert canadian whiskey' WHERE item_description = 'lord calvert canadian whisky';
+UPDATE iowa_drink_sales SET item_description = 'macallan triple cask matured 12yr' WHERE item_description = 'macallan triple cask matured 12 year';
+UPDATE iowa_drink_sales SET item_description = 'macallan triple cask matured 12yr' WHERE item_description = 'macallan triple cask matured 12yr disco';
+UPDATE iowa_drink_sales SET item_description = 'martell blue swift' WHERE item_description = 'martell blueswift';
+UPDATE iowa_drink_sales SET item_description = 'mcclellands islay' WHERE item_description = 'mcclelland islay';
 
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
+UPDATE iowa_drink_sales SET item_description = 'michters us1 kentucky straight single barrel rye whiskey' WHERE item_description = 'michters us*1 kentucky straight single barrel rye';
+UPDATE iowa_drink_sales SET item_description = 'midnight moon apple pie 750ml w/100prf 50ml' WHERE item_description = 'midnight moon apple pie 750ml w/100 proof 50ml';
+UPDATE iowa_drink_sales SET item_description = 'nocello walnut liqueur' WHERE item_description = 'nocello walnut liqueur - use code 966067';
+UPDATE iowa_drink_sales SET item_description = 'oban 18yr' WHERE item_description = 'oban 18 year';
+UPDATE iowa_drink_sales SET item_description = 'obtainium kentucky whiskey' WHERE item_description = 'obtainium kentucky why';
+UPDATE iowa_drink_sales SET item_description = 'old grand-dad 100prf bond bourbon 4yr' WHERE item_description = 'old grand-dad 100 prf bond bourbon 4 yr';
+UPDATE iowa_drink_sales SET item_description = 'old hickory black label blended bourbon whiskey' WHERE item_description = 'old hickory black label blended whiskey';
+UPDATE iowa_drink_sales SET item_description = 'passoa passion fruit liqueur' WHERE item_description = 'passoa passion fruit liqueur - use code 66136';
+UPDATE iowa_drink_sales SET item_description = 'phillips hot 100prf cinnamon schnapps' WHERE item_description = 'phillips hot 100 cinnamon schnapps';
+UPDATE iowa_drink_sales SET item_description = 'phillips root beer schnapps' WHERE item_description = 'phillips rootbeer schnapps';
 
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
+UPDATE iowa_drink_sales SET item_description = 'plantation rhum grand reserve 5yr' WHERE item_description = 'plantation rhum grand reserve 5 year';
+UPDATE iowa_drink_sales SET item_description = 'redemption bourbon barrel proof 9yr' WHERE item_description = 'redemption bourbon barrel proof 9 year';
+UPDATE iowa_drink_sales SET item_description = 'redemption rye 10yr barrel proof' WHERE item_description = 'redemption rye 10 year aged barrel proof';
+UPDATE iowa_drink_sales SET item_description = 'remy martin vsop flask' WHERE item_description = 'remy martin vsop (flask)';
+UPDATE iowa_drink_sales SET item_description = 'revel stoke root beer' WHERE item_description = 'revel stoke rootbeer';
+UPDATE iowa_drink_sales SET item_description = 'revel stoke root beer mini' WHERE item_description = 'revel stoke rootbeer mini';
+UPDATE iowa_drink_sales SET item_description = 'ronrico silver label rum' WHERE item_description = 'ronrico silver label rum (pr)';
+UPDATE iowa_drink_sales SET item_description = 'ron zacapa 23yr' WHERE item_description = 'ron zacapa 23 year';
+UPDATE iowa_drink_sales SET item_description = 'salvadors margarita 4pk' WHERE item_description = 'salvador''s margarita 4pak';
+UPDATE iowa_drink_sales SET item_description = 'salvadors original margarita 4pk' WHERE item_description = 'salvadors original margarita 4pk disco';
 
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-UPDATE iowa_drink_sales SET item_description = '' WHERE item_description = '';
-
-
-
+UPDATE iowa_drink_sales SET item_description = 'scorpion mezcal anejo 1yr' WHERE item_description = 'scorpion mezcal anejo 1 year';
+UPDATE iowa_drink_sales SET item_description = 'scorpion mezcal anejo 5yr' WHERE item_description = 'scorpion mezcal anejo 5 yr';
+UPDATE iowa_drink_sales SET item_description = 'sir winston wheat whiskey' WHERE item_description = 'sir winston whiskey wheat';
+UPDATE iowa_drink_sales SET item_description = 'sir winston white whiskey' WHERE item_description = 'sir winston white whiskey - disco';
+UPDATE iowa_drink_sales SET item_description = 'slipknot iowa whiskey no. 9 reserve' WHERE item_description = 'slipknot iowa whiskey #9 reserve';
+UPDATE iowa_drink_sales SET item_description = 'st george gin combo 3pk' WHERE item_description = 'st. george gin combo 3-pack';
+UPDATE iowa_drink_sales SET item_description = 'suntory toki w/highball glass' WHERE item_description = 'suntory toki with highball glass';
+UPDATE iowa_drink_sales SET item_description = 'tooters melon ball' WHERE item_description = 'tooters mellon ball';
 
 
 UPDATE iowa_drink_sales SET item_description = REPLACE(item_description,'�','');
