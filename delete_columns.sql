@@ -13,5 +13,4 @@ ALTER TABLE iowa_drink_sales
   DROP COLUMN vendor_number,
   DROP COLUMN item_number,
   DROP COLUMN county,
-  DROP COLUMN county_number,
   DROP COLUMN category;
