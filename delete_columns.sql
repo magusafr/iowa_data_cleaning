@@ -6,11 +6,11 @@
 
 ALTER TABLE iowa_drink_sales 
   DROP COLUMN address,
-  DROP COLUMN store_location
+  DROP COLUMN store_location,
   DROP COLUMN store_number,
   DROP COLUMN city,
   DROP COLUMN county_number,
-  DROP COLUMN vendor_number
+  DROP COLUMN vendor_number,
   DROP COLUMN item_number,
   DROP COLUMN county,
   DROP COLUMN county_number,
