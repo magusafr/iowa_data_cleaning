@@ -29,7 +29,7 @@ UPDATE iowa_drink_sales SET store_name = 'kum & go #1 / hampton' WHERE store_nam
 UPDATE iowa_drink_sales SET store_name = 'kum & go #524/ coralville' WHERE store_name = 'kum & go # 524/ coralville';
 UPDATE iowa_drink_sales SET store_name = 'kum & go #532/ west dsm' WHERE store_name = 'kum & go # 532/ west dsm';
 UPDATE iowa_drink_sales SET store_name = 'kum & go #542 / urbandale' WHERE store_name = 'kum & go # 542 / urbandale';
-UPDATE iowa_drink_sales SET store_name = 'lefty's convenience store inc.' WHERE store_name = 'lefty's convenience store inc';
+UPDATE iowa_drink_sales SET store_name = 'lefty''s convenience store inc.' WHERE store_name = 'lefty''s convenience store inc';
 UPDATE iowa_drink_sales SET store_name = 'lonely oak distillery' WHERE store_name = 'lonely oak distilery';
 UPDATE iowa_drink_sales SET store_name = 'mississippi river distilling co' WHERE store_name = 'mississippi river distillery';
 UPDATE iowa_drink_sales SET store_name = 'new star / pella' WHERE store_name = 'new star pella';
