@@ -1,7 +1,7 @@
 -- check category duplicates for each store_name
 SELECT DISTINCT(item_description, category_name)
 FROM iowa_drink_sales
-WHERE store_name IN
+WHERE item_description IN
                   (
                   SELECT item_description
                   FROM  
