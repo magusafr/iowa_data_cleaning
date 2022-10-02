@@ -38,7 +38,7 @@ UPDATE iowa_drink_sales
 UPDATE iowa_drink_sales 
   SET zip_code = '50021' 
   WHERE store_name = 'fareway stores #061 / ankeny' AND
-        zip_code = '52403';
+        zip_code = '50023';
 
 UPDATE iowa_drink_sales 
   SET zip_code = '50021' 
@@ -107,7 +107,7 @@ UPDATE iowa_drink_sales
         
 UPDATE iowa_drink_sales 
   SET zip_code = '52202' 
-  WHERE store_name = 'lefty''s convenience store inc' AND
+  WHERE store_name = 'lefty''s convenience store inc.' AND
         zip_code = '52214';
      
 UPDATE iowa_drink_sales 
